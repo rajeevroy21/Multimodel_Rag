@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Env
+.venv/
+venv/
+env/
+
+# Environment
+.env
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+*.log
+
+# Project Specific
+image_bot/images/
+pdf_chat/pdfs/
+pdf_chat/embeddings/

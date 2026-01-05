@@ -1,0 +1,4 @@
+python-decouple
+pillow
+streamlit
+requests

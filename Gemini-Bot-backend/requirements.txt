@@ -1,0 +1,13 @@
+Django
+djangorestframework
+google-generativeai
+python-decouple
+langchain
+pdfplumber
+faiss-cpu
+langchain_google_genai
+langchain-community
+pillow
+azure-identity
+azure-keyvault-secrets
+whitenoise
