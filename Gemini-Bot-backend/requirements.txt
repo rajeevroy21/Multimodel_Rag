@@ -20,3 +20,5 @@ google-generativeai
 pillow
 azure-identity
 azure-keyvault-secrets
+django-cors-headers
+
