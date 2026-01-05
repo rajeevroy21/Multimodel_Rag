@@ -11,4 +11,12 @@ pillow
 azure-identity
 azure-keyvault-secrets
 whitenoise
-psycopg2-binary
+Django
+djangorestframework
+whitenoise
+gunicorn
+python-decouple
+google-generativeai
+pillow
+azure-identity
+azure-keyvault-secrets
