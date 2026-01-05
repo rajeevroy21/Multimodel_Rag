@@ -5,7 +5,10 @@ import uuid
 from decouple import config
 import io
 
-API_URL = config("API_URL")
+API_URL = config("API_URL", default=None)
+
+if not API_URL:
+    raise ValueError("API_URL is not set")
 
 st.sidebar.title("Google's Gemini")
 system_prompt = st.sidebar.text_area("System Prompt:", value="You are a helpful AI Assistant.")
