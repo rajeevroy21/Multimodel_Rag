@@ -1,4 +1,4 @@
-# 🚀 Google’s Gemini Bot — Multi-Modal AI Assistant ✅
+# 🚀 Google’s Gemini Bot — Multi-Modal AI Assistant 
 
 > ✅ A powerful AI assistant built using Google’s Gemini models, featuring a Django REST backend and an interactive Streamlit frontend.
 
@@ -9,7 +9,7 @@ Gemini Bot enables:
 
 --------------------------------------------------
 
-## ✨ Key Highlights ✅
+## ✨ Key Highlights 
 
 ✅ Powered by Google Gemini LLMs  
 ✅ Multi-modal support (Text + Image + PDF)  
